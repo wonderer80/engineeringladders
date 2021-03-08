@@ -1,6 +1,6 @@
 # Tech Lead
 
-데브 리드로 알려진 이 역할은 시스템의 소유자이며, 실무와 아키텍쳐 지식 및 제품(Production) 지원간의 고유한 균형을 요구합니다.
+데브 리드로 알려진 이 역할은 시스템의 소유자이며, 실무와 아키텍쳐 지식 및 제품 지원([Production Support](https://www.jobhero.com/job-description/examples/production/support-engineer)) 간의 고유한 균형을 요구합니다.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
