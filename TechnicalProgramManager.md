@@ -1,6 +1,6 @@
 # Technical Program Manager
 
-여러 팀이 참여하는 과제를 조정히고 추진하는 역할을 담당합니다.
+여러 팀이 참여하는 과제를 조정하고 추진하는 역할을 담당합니다.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
