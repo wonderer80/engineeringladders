@@ -1,6 +1,6 @@
 # Engineering Manager
 
-개발 매니저의 역할로, 팀의 일관적인 배포, 커리어 성장과 행복의 수준을 담당합니다..
+개발 매니저로도 알려진 이 역할은 팀의 일관적인 배포, 커리어 성장과 행복의 수준을 담당합니다.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
@@ -8,7 +8,7 @@
 | 6 | Senior | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
 | 7 | Senior | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
 
-만약 직접 보고하는 관리자가 부하직원으로 있다면, 역할적인 측면에서 "사람을 관리"하는 것에 대한 자세한 정보를 제공하는 [Managing Managers](Managing-Managers.md) 섹션을 읽어보면 좋습니다.
+만약 당신에게 직접 보고하는 관리자가 있다면, 역할적인 측면에서 "사람을 관리"하는 것에 대한 자세한 정보를 제공하는 [Managing Managers](Managing-Managers.md) 섹션을 읽어보면 좋습니다.
 
 ## EM5 - Engineering Manager 5
 
