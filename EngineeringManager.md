@@ -8,8 +8,7 @@
 | 6 | Senior | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
 | 7 | Senior | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
 
-만약 당신에게 직접 보고하는 관리자가 있다면, 역할적인 측면에서 "사람을 관리"하는 것에 대한 자세한 정보를 제공하는 [Managing Managers](Managing-Managers.md) 섹션을 읽어보면 좋습니다.
-
+만약 당신에게 직접 보고하는 관리자가 있다면, [Managing Managers](Managing-Managers.md)를 읽어보세요. "사람을 관리"하는 역할의 관점에서 자세한 정보를 제공하고 있습니다.
 ## EM5 - Engineering Manager 5
 
 ![Engineering Manager 5](/charts/engineeringmanager-5.png)
