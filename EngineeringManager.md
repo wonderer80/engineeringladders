@@ -1,6 +1,6 @@
 # Engineering Manager
 
-Role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team.
+개발 매니저로도 알려진 이 역할은 팀의 일관적인 배포, 커리어 성장과 행복의 수준을 담당합니다.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
@@ -8,37 +8,36 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 | 6 | Senior | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
 | 7 | Senior | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
 
-If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
-
+만약 당신에게 직접 보고하는 관리자가 있다면, [Managing Managers](Managing-Managers.md)를 읽어보세요. "사람을 관리"하는 역할의 관점에서 자세한 정보를 제공하고 있습니다.
 ## EM5 - Engineering Manager 5
 
 ![Engineering Manager 5](/charts/engineeringmanager-5.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Evangelizes**: 연구 조사, 개념 증명(POC)을 만들고, 새로운 기술을 팀에 소개합니다
+* **Owns**:  프로덕션의 운영 및 모니터링에 대한 책임을 가지며 SLAs 를 알고 있습니다
+* **Manages**: 팀원들의 커리어, 기대 수준, 성과, 행복 수준를 관리합니다
+* **Adjusts**: 피드백을 듣고 팀 프로세스를 조정합니다. 그리고 그러한 변화를 통해 팀을 가이드합니다
+* **Team**: 특정 부분만이 아니라 팀전체에 영향을 끼칩니다
 
 ## EM6 - Engineering Manager 6
 
 ![Engineering Manager 5](/charts/engineeringmanager-6.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Evangelizes**: 연구 조사, 개념 증명(POC)을 만들고, 새로운 기술을 팀에 소개합니다
+* **Evolves**: 미래의 요구사항을 지원할 수 있도록 설계를 발전시키며 SLAs 를 정의합니다
+* **Manages**: 팀원들의 커리어, 기대 수준, 성과, 행복 수준를 관리합니다
+* **Defines**: 팀의 성숙도에 맞는 올바른 프로세스를 정의하고, 민첩성과 규율의 균형을 맞춥니다
+* **Team**: 특정 부분만이 아니라 팀전체에 영향을 끼칩니다
 
 ## EM7 - Engineering Manager 7
 
 ![Engineering Manager 5](/charts/engineeringmanager-7.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Evangelizes**: 연구 조사, 개념 증명(POC)을 만들고, 새로운 기술을 팀에 소개합니다
+* **Evolves**: 미래의 요구사항을 지원할 수 있도록 설계를 발전시키며 SLAs 를 정의합니다
+* **Manages**: 팀원들의 커리어, 기대 수준, 성과, 행복 수준를 관리합니다
+* **Defines**: 팀의 성숙도에 맞는 올바른 프로세스를 정의하고, 민첩성과 규율의 균형을 맞춥니다
+* **Multiple Teams**: 당신의 팀 뿐만 아니라 다른 팀에 영향을 끼칩니다
 
 # Other Pages
 
